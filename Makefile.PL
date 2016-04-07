@@ -9,7 +9,6 @@ WriteMakefile(
 	},
 	BUILD_REQUIRES    => {
 	},
-    ABSTRACT_FROM     => 'lib/NHGRI/BW2/Analysis.pm',
     AUTHOR            => 'Nancy Fisher Hansen <nhansen@mail.nih.gov>',
     META_MERGE        => {
 		resources => {
