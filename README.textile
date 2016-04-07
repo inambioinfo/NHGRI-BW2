@@ -33,5 +33,5 @@ p. * For local installation, call perl Makefile.PL with "--install_base $HOME"
 
 h2. Documentation
 
-p. POD documentation is contained in all modules and scripts.  Type "perldoc <script or module name>".
+p. POD documentation is contained in all modules and scripts.  Type "perldoc <pre><script or module name></pre>".
 
