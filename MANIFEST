@@ -1,0 +1,23 @@
+lib/NHGRI/BW2/Analysis.pm
+lib/NHGRI/BW2/Biowulf2Job.pm
+lib/NHGRI/BW2/SbatchJob.pm
+lib/NHGRI/BW2/Session.pm
+lib/NHGRI/BW2/SwarmJob.pm
+LICENSE
+Makefile.PL
+MANIFEST			This list of files
+README.textile
+scripts/bw2_add_readtags.pl
+scripts/bw2_bam2fastq.pl
+scripts/bw2_bwa_align.pl
+scripts/bw2_call_gatkhc.pl
+scripts/bw2_create_indeltargets.pl
+scripts/bw2_gatk_asereadcounter.pl
+scripts/bw2_gatkhc_pipeline.pl
+scripts/bw2_index_star_genome.pl
+scripts/bw2_mark_duplicates.pl
+scripts/bw2_merge_bamfiles.pl
+scripts/bw2_realign_indels.pl
+scripts/bw2_recalibrate_bases.pl
+scripts/bw2_star_align.pl
+t/1_load.t
